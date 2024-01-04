@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./live-list.component.css']
 })
 export class LiveListComponent {
-
+  numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 }
